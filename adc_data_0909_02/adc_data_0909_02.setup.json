@@ -1,0 +1,19 @@
+{
+  "createdByVersion": "3.0.0.7",
+  "createdOn": "2022-09-09T17:42:59.5053548+08:00",
+  "configUsed": "C:\\ti\\mmwave_studio_03_00_00_07\\mmWaveStudio\\PostProc\\adc_data_0909_02\\adc_data_0909_02.mmwave.json",
+  "captureHardware": "TDA2XX",
+  "mmWaveDevice": "awr2243",
+  "operatingFreq": 77,
+  "mmWaveDeviceConfig": {
+    "RS232COMPort": "",
+    "RS232BaudRate": "",
+    "radarSSFirmware": "C:\\ti\\mmwave_dfp_02_01_05_03\\firmware\\xwr22xx_metaImage.bin",
+    "masterSSFirmware": ""
+  },
+  "capturedFiles": {
+    "numFilesCollected": 0,
+    "fileBasePath": "C:\\ti\\mmwave_studio_03_00_00_07\\mmWaveStudio\\PostProc\\adc_data_0909_02",
+    "files": []
+  }
+}
